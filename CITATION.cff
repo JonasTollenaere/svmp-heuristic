@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Efficient use of collision detection for volume maximization problems"
+message: "If you use this software, please cite the published article for which it was developed."
+url: "https://github.com/JonasTollenaere/svmp-heuristic"
+date-released: 2025-08-07
+preferred-citation:
+  type: article
+  authors:
+  - given-names: Jonas
+    family-names: Tollenaere
+    email: jonas.tollenaere@kuleuven.be
+    affiliation: KU Leuven
+    orcid: 'https://orcid.org/0000-0003-4404-6409'
+  - given-names: Hatice
+    family-names: Çalık
+    affiliation: KU Leuven
+    orcid: 'https://orcid.org/0000-0002-9972-6199'
+  - given-names: Tony
+    family-names: Wauters
+    affiliation: KU Leuven
+    orcid: 'https://orcid.org/0000-0002-1014-6340'
+  journal: "European Journal of Operational Research"
+  doi: "10.1016/j.ejor.2024.05.048"
+  start: 967
+  end: 982
+  year: 2024
+  title: Efficient use of collision detection for volume maximization problems
+  volume: 319
+  number: 3
