@@ -7,7 +7,7 @@
 ## General information
 
 `svmp-heuristic` provides the local search heuristics for 3D single volume maximisation problems that were described in 
-["Efficient use of collision detection for volume maximization problems"](https://github.com/JonasTollenaere/MeshCore). 
+["Efficient use of collision detection for volume maximization problems"](https://doi.org/10.1016/j.ejor.2024.05.048). 
 Please cite this publication when referencing this project.
 
 This project depends on the [MeshCore library](https://github.com/JonasTollenaere/MeshCore) for loading files, rendering and providing the necessary geometric operations.
